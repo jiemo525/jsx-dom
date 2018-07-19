@@ -1,0 +1,26 @@
+{
+  "name": "jsx-dom",
+  "version": "1.0.0",
+  "description": "react jsx转化成dom",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiemo525/jsx-dom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiemo525/jsx-dom/issues"
+  },
+  "homepage": "https://github.com/jiemo525/jsx-dom#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1"
+  }
+}

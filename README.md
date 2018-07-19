@@ -87,4 +87,18 @@ ReactDOM.render(
     document.getElementById( 'root' )
 );
 ```
+### 运行
+-----------
+parcel是是一个Web应用程序打包器,它利用多核处理提供极快的性能，并且你不需要进行任何配置。具体操作参看：http://www.css88.com/doc/parcel/getting_started.html
+
+```js
+> npm install -g parcel-bundler
+```
+
+```js
+> git clone https://github.com/jiemo525/jsx-dom.git
+> cd jsx-dom
+> npm install
+> npm start
+```
 
